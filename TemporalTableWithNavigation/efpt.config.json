@@ -1,0 +1,41 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "TemporaltablewithnavigationContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "TemporalTableWithNavigation",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Employees]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Statuses]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "sql1.TemporalTableWithNavigation",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
